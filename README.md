@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
 <h3 align="center">A passionate devops, system and network administrator from Spain</h3>
 
+- 🔭 I’m currently working on [Stratio](https://stratio.com/home)
+
+- 🌱 I’m currently learning **K8s**
+
+- 💬 Ask me about **Docker, Networking or Virtualization**
+
 - 📫 How to reach me **hbermu@protonmail.ch**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hbermu](https://www.linkedin.com/in/hbermu)
+
+- ⚡ Fun fact **I'm a Star Wars fan!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
