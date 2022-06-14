@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Docker, Networking or Virtualization**
 
-- 📫 How to reach me **hbermu@protonmail.ch**
+- 📫 How to reach me **hbermu@pm.me**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hbermu](https://www.linkedin.com/in/hbermu)
 
