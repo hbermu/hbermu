@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hbermu](https://www.linkedin.com/in/hbermu)
 
-- ⚡ Fun fact **I'm a Star Wars fan!**
+- ⚡ Fun fact **I'm a Star Wars fan!** and a **Pokemon Trainer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
