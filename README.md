@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
 <h3 align="center">A passionate devops, system and network administrator from Spain</h3>
 
-- 🔭 I’m currently working on [Stratio](https://stratio.com/home)
-
-- 🌱 I’m currently learning **K8s**
+- 🔭 I’m currently working on [EngFlow](https://www.engflow.com/)
 
 - 💬 Ask me about **Docker, Networking or Virtualization**
 
